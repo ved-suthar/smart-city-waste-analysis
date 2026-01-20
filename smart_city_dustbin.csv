@@ -1,0 +1,1001 @@
+area_id,area_name,population_density,dustbin_fill_level,collection_frequancy_per_week,compliants_count,festival_season,overflow,risk_cluster
+1,Ahmedabad - Bopal,8644,77,3,12,0,0,0
+2,Mumbai - Andheri,4043,46,5,1,0,0,1
+3,Mumbai - Borivali,8221,57,5,13,1,0,1
+4,Delhi - Rohini,8573,89,3,14,0,0,0
+5,Delhi - Lajpat Nagar,5894,62,2,19,1,0,2
+6,Surat - Adajan,7565,55,1,21,1,0,0
+7,Surat - Vesu,8914,44,5,7,0,0,0
+8,Pune - Hinjewadi,3376,94,4,5,1,0,1
+9,Pune - Kothrud,8858,56,4,14,1,0,0
+10,Jaipur - Mansarovar,6037,58,5,14,1,0,1
+11,Rajkot - Kalawad Road,3872,58,4,16,0,0,1
+12,Ahmedabad - Maninagar,7396,94,3,22,0,1,1
+13,Ahmedabad - Bopal,6052,65,1,11,1,0,2
+14,Mumbai - Andheri,4578,58,4,9,1,0,1
+15,Mumbai - Borivali,7054,93,3,5,0,1,2
+16,Delhi - Rohini,6142,65,1,18,1,0,2
+17,Delhi - Lajpat Nagar,4836,56,5,16,1,0,1
+18,Surat - Adajan,4368,69,1,17,0,0,2
+19,Surat - Vesu,3029,91,2,8,0,0,2
+20,Pune - Hinjewadi,5352,94,1,16,0,0,2
+21,Pune - Kothrud,7283,64,2,14,0,0,0
+22,Jaipur - Mansarovar,7825,80,4,11,1,0,1
+23,Rajkot - Kalawad Road,3601,99,5,6,0,0,1
+24,Ahmedabad - Maninagar,3576,49,2,4,0,1,2
+25,Ahmedabad - Bopal,8731,42,3,2,1,0,0
+26,Mumbai - Andheri,4980,85,4,7,0,0,1
+27,Mumbai - Borivali,6373,91,5,17,0,0,1
+28,Delhi - Rohini,7324,97,4,14,1,0,1
+29,Delhi - Lajpat Nagar,5520,74,4,5,1,0,1
+30,Surat - Adajan,6373,66,2,12,0,1,2
+31,Surat - Vesu,4214,48,5,19,1,0,1
+32,Pune - Hinjewadi,7106,66,1,7,0,0,0
+33,Pune - Kothrud,5486,88,1,5,0,0,2
+34,Jaipur - Mansarovar,8436,78,2,7,0,0,0
+35,Rajkot - Kalawad Road,5270,78,2,16,1,1,2
+36,Ahmedabad - Maninagar,4620,44,3,22,1,0,2
+37,Ahmedabad - Bopal,7744,74,5,8,1,0,1
+38,Mumbai - Andheri,9262,42,5,9,1,0,0
+39,Mumbai - Borivali,6290,83,3,9,1,0,2
+40,Delhi - Rohini,9955,64,2,12,0,0,0
+41,Delhi - Lajpat Nagar,9456,49,5,22,1,0,0
+42,Surat - Adajan,3177,55,4,13,0,0,1
+43,Surat - Vesu,3124,60,2,21,0,0,2
+44,Pune - Hinjewadi,6790,56,3,12,0,0,0
+45,Pune - Kothrud,5228,77,5,2,1,0,1
+46,Jaipur - Mansarovar,5631,63,1,10,0,0,2
+47,Rajkot - Kalawad Road,4473,80,5,13,0,0,1
+48,Ahmedabad - Maninagar,3781,75,2,22,0,0,2
+49,Ahmedabad - Bopal,3470,87,2,20,1,0,2
+50,Mumbai - Andheri,4061,81,4,10,0,0,1
+51,Mumbai - Borivali,8543,55,4,16,1,0,0
+52,Delhi - Rohini,4318,68,2,5,1,0,2
+53,Delhi - Lajpat Nagar,9164,90,1,17,0,0,0
+54,Surat - Adajan,3165,94,5,22,1,1,1
+55,Surat - Vesu,6251,90,5,14,0,0,1
+56,Pune - Hinjewadi,7173,72,5,8,0,0,1
+57,Pune - Kothrud,9628,69,5,0,0,0,0
+58,Jaipur - Mansarovar,8625,69,5,19,0,0,1
+59,Rajkot - Kalawad Road,6209,42,4,10,0,0,0
+60,Ahmedabad - Maninagar,6373,43,5,24,1,0,1
+61,Ahmedabad - Bopal,4588,84,2,18,1,0,2
+62,Mumbai - Andheri,7694,84,2,12,0,0,0
+63,Mumbai - Borivali,5630,58,3,8,1,0,2
+64,Delhi - Rohini,6883,87,1,7,1,0,2
+65,Delhi - Lajpat Nagar,6465,51,2,19,0,0,0
+66,Surat - Adajan,7241,84,4,2,1,0,1
+67,Surat - Vesu,4569,81,2,18,1,0,2
+68,Pune - Hinjewadi,6373,61,4,23,1,0,1
+69,Pune - Kothrud,6075,88,2,14,0,0,2
+70,Jaipur - Mansarovar,5917,59,3,2,0,0,0
+71,Rajkot - Kalawad Road,8214,75,2,6,0,0,0
+72,Ahmedabad - Maninagar,8501,66,2,19,0,0,0
+73,Ahmedabad - Bopal,6984,49,2,13,1,0,0
+74,Mumbai - Andheri,7233,55,2,8,1,0,0
+75,Mumbai - Borivali,3380,84,3,14,0,0,2
+76,Delhi - Rohini,8329,44,4,0,0,0,0
+77,Delhi - Lajpat Nagar,6373,69,1,21,1,0,2
+78,Surat - Adajan,5715,88,5,19,1,0,1
+79,Surat - Vesu,9296,90,5,12,0,1,1
+80,Pune - Hinjewadi,6373,67,1,5,1,0,2
+81,Pune - Kothrud,9727,88,2,2,0,0,0
+82,Jaipur - Mansarovar,6710,64,5,24,0,0,1
+83,Rajkot - Kalawad Road,4031,80,3,3,0,0,2
+84,Ahmedabad - Maninagar,5459,97,2,15,1,1,2
+85,Ahmedabad - Bopal,5138,88,3,4,1,0,2
+86,Mumbai - Andheri,5155,73,4,23,1,0,1
+87,Mumbai - Borivali,7451,75,2,4,0,0,0
+88,Delhi - Rohini,8875,58,2,18,1,0,0
+89,Delhi - Lajpat Nagar,9228,67,4,12,1,0,0
+90,Surat - Adajan,6373,62,4,8,1,0,1
+91,Surat - Vesu,9332,78,1,0,1,0,0
+92,Pune - Hinjewadi,6373,45,4,19,0,0,1
+93,Pune - Kothrud,3939,70,3,4,0,0,2
+94,Jaipur - Mansarovar,5300,70,4,9,0,0,1
+95,Rajkot - Kalawad Road,3330,41,1,21,0,0,2
+96,Ahmedabad - Maninagar,8364,93,5,23,1,0,1
+97,Ahmedabad - Bopal,6373,67,3,23,0,1,1
+98,Mumbai - Andheri,6691,85,4,23,0,0,1
+99,Mumbai - Borivali,5622,62,5,10,0,0,1
+100,Delhi - Rohini,6373,99,5,10,1,0,1
+101,Delhi - Lajpat Nagar,5499,48,3,17,1,0,0
+102,Surat - Adajan,9857,91,2,21,1,0,0
+103,Surat - Vesu,5532,52,5,13,0,0,1
+104,Pune - Hinjewadi,9962,69,3,6,0,0,0
+105,Pune - Kothrud,6534,51,1,10,1,0,0
+106,Jaipur - Mansarovar,8220,81,2,1,1,0,0
+107,Rajkot - Kalawad Road,4588,50,2,22,0,0,2
+108,Ahmedabad - Maninagar,7372,85,4,6,1,0,1
+109,Ahmedabad - Bopal,5083,46,3,5,0,0,0
+110,Mumbai - Andheri,9956,47,3,7,0,1,0
+111,Mumbai - Borivali,3600,82,3,22,0,0,2
+112,Delhi - Rohini,6553,69,5,23,1,0,1
+113,Delhi - Lajpat Nagar,4252,59,4,20,0,0,1
+114,Surat - Adajan,8322,78,3,16,1,1,0
+115,Surat - Vesu,9934,77,1,13,1,0,0
+116,Pune - Hinjewadi,4651,69,4,22,0,0,1
+117,Pune - Kothrud,3785,69,4,20,0,0,1
+118,Jaipur - Mansarovar,8796,85,5,16,0,1,1
+119,Rajkot - Kalawad Road,3633,69,3,17,1,0,2
+120,Ahmedabad - Maninagar,4853,76,1,20,0,0,2
+121,Ahmedabad - Bopal,9392,43,1,4,0,0,0
+122,Mumbai - Andheri,7681,69,3,24,0,0,0
+123,Mumbai - Borivali,7837,48,2,4,1,0,0
+124,Delhi - Rohini,7099,69,4,6,0,0,1
+125,Delhi - Lajpat Nagar,7627,84,1,7,1,0,2
+126,Surat - Adajan,5785,83,2,12,0,0,2
+127,Surat - Vesu,8789,61,2,3,1,0,0
+128,Pune - Hinjewadi,5438,94,2,19,1,1,2
+129,Pune - Kothrud,7336,69,2,1,1,0,0
+130,Jaipur - Mansarovar,3523,90,1,4,0,1,2
+131,Rajkot - Kalawad Road,7493,92,4,12,1,0,1
+132,Ahmedabad - Maninagar,4020,57,2,22,0,0,2
+133,Ahmedabad - Bopal,9459,45,3,24,0,0,0
+134,Mumbai - Andheri,8940,42,2,4,0,0,0
+135,Mumbai - Borivali,4925,64,2,12,1,0,2
+136,Delhi - Rohini,6134,93,5,4,0,0,1
+137,Delhi - Lajpat Nagar,4345,47,3,18,0,0,2
+138,Surat - Adajan,5456,40,1,22,0,0,2
+139,Surat - Vesu,5426,97,1,19,1,0,2
+140,Pune - Hinjewadi,6176,58,5,4,0,0,1
+141,Pune - Kothrud,7830,96,2,13,0,0,2
+142,Jaipur - Mansarovar,3949,40,1,8,0,0,2
+143,Rajkot - Kalawad Road,5171,81,2,12,1,0,2
+144,Ahmedabad - Maninagar,4198,68,3,12,1,0,2
+145,Ahmedabad - Bopal,5601,58,3,13,1,0,2
+146,Mumbai - Andheri,6373,41,2,14,1,0,0
+147,Mumbai - Borivali,9917,44,3,20,1,0,0
+148,Delhi - Rohini,3800,92,4,18,1,0,1
+149,Delhi - Lajpat Nagar,8948,69,2,4,1,0,0
+150,Surat - Adajan,6373,77,4,5,1,0,1
+151,Surat - Vesu,7579,74,1,18,0,0,0
+152,Pune - Hinjewadi,6766,52,1,8,0,0,0
+153,Pune - Kothrud,6373,82,4,4,0,0,1
+154,Jaipur - Mansarovar,8181,82,4,20,0,0,1
+155,Rajkot - Kalawad Road,7096,70,2,3,0,0,0
+156,Ahmedabad - Maninagar,6171,72,1,3,0,0,2
+157,Ahmedabad - Bopal,7973,91,4,13,1,0,1
+158,Mumbai - Andheri,6818,99,2,12,0,0,2
+159,Mumbai - Borivali,4220,70,1,12,1,0,2
+160,Delhi - Rohini,8067,49,3,18,0,0,0
+161,Delhi - Lajpat Nagar,5985,79,3,17,1,0,2
+162,Surat - Adajan,9402,69,1,12,1,0,0
+163,Surat - Vesu,9687,81,3,22,0,1,0
+164,Pune - Hinjewadi,7758,55,5,0,1,0,1
+165,Pune - Kothrud,6419,48,2,17,0,0,0
+166,Jaipur - Mansarovar,4071,63,2,14,0,0,2
+167,Rajkot - Kalawad Road,4600,61,4,10,0,0,1
+168,Ahmedabad - Maninagar,7961,81,5,5,0,0,1
+169,Ahmedabad - Bopal,4021,75,1,8,0,0,2
+170,Mumbai - Andheri,4088,92,1,4,0,0,2
+171,Mumbai - Borivali,4464,79,3,12,0,0,2
+172,Delhi - Rohini,7285,41,5,24,0,1,1
+173,Delhi - Lajpat Nagar,9117,53,3,8,1,0,0
+174,Surat - Adajan,4618,57,2,17,1,1,2
+175,Surat - Vesu,6055,62,1,12,0,1,2
+176,Pune - Hinjewadi,6892,77,4,1,0,1,1
+177,Pune - Kothrud,5130,94,3,11,0,0,2
+178,Jaipur - Mansarovar,8415,88,2,12,0,0,0
+179,Rajkot - Kalawad Road,9787,64,2,15,1,0,0
+180,Ahmedabad - Maninagar,3390,82,1,11,0,0,2
+181,Ahmedabad - Bopal,9571,87,4,9,0,0,0
+182,Mumbai - Andheri,9781,48,2,4,1,0,0
+183,Mumbai - Borivali,9061,98,5,11,1,0,1
+184,Delhi - Rohini,3601,96,1,14,0,0,2
+185,Delhi - Lajpat Nagar,3384,45,2,12,1,1,2
+186,Surat - Adajan,6865,65,1,8,1,0,0
+187,Surat - Vesu,7097,96,3,13,0,1,1
+188,Pune - Hinjewadi,3727,69,2,5,0,0,2
+189,Pune - Kothrud,8972,44,5,15,0,0,0
+190,Jaipur - Mansarovar,3585,94,3,20,0,0,2
+191,Rajkot - Kalawad Road,4676,73,3,0,0,0,2
+192,Ahmedabad - Maninagar,6373,59,5,16,0,0,1
+193,Ahmedabad - Bopal,8678,47,2,14,1,0,0
+194,Mumbai - Andheri,8234,71,2,14,0,0,0
+195,Mumbai - Borivali,6034,80,5,23,1,0,1
+196,Delhi - Rohini,3530,55,1,9,0,0,2
+197,Delhi - Lajpat Nagar,6264,60,2,23,1,0,2
+198,Surat - Adajan,6327,69,2,13,0,0,2
+199,Surat - Vesu,8955,63,4,4,0,0,0
+200,Pune - Hinjewadi,6017,68,2,24,0,0,2
+201,Pune - Kothrud,9724,91,3,3,1,0,0
+202,Jaipur - Mansarovar,4778,73,3,24,1,0,2
+203,Rajkot - Kalawad Road,3369,42,2,1,0,0,2
+204,Ahmedabad - Maninagar,4596,41,2,3,1,0,2
+205,Ahmedabad - Bopal,5780,41,1,18,0,0,0
+206,Mumbai - Andheri,9905,87,1,12,0,0,0
+207,Mumbai - Borivali,6373,47,2,17,1,0,0
+208,Delhi - Rohini,4686,66,1,6,1,0,2
+209,Delhi - Lajpat Nagar,3433,69,4,8,0,0,1
+210,Surat - Adajan,3493,95,5,1,1,1,1
+211,Surat - Vesu,4718,72,5,24,0,0,1
+212,Pune - Hinjewadi,8503,69,4,4,0,1,0
+213,Pune - Kothrud,5927,64,2,5,1,0,2
+214,Jaipur - Mansarovar,9890,69,3,12,1,0,0
+215,Rajkot - Kalawad Road,4196,69,5,5,1,0,1
+216,Ahmedabad - Maninagar,3549,88,3,21,1,0,2
+217,Ahmedabad - Bopal,6373,90,5,9,0,0,1
+218,Mumbai - Andheri,4185,71,2,20,1,0,2
+219,Mumbai - Borivali,9243,93,5,18,0,0,1
+220,Delhi - Rohini,6617,48,1,12,0,0,0
+221,Delhi - Lajpat Nagar,6373,48,3,12,1,0,0
+222,Surat - Adajan,6172,93,5,8,0,1,1
+223,Surat - Vesu,6373,54,5,17,1,0,1
+224,Pune - Hinjewadi,8287,68,2,2,1,0,0
+225,Pune - Kothrud,6527,44,4,10,1,1,0
+226,Jaipur - Mansarovar,6373,99,2,7,0,0,2
+227,Rajkot - Kalawad Road,8123,69,3,18,0,0,0
+228,Ahmedabad - Maninagar,9940,60,3,9,0,0,0
+229,Ahmedabad - Bopal,6099,41,3,2,1,0,0
+230,Mumbai - Andheri,4593,67,2,9,0,0,2
+231,Mumbai - Borivali,4979,72,5,11,1,0,1
+232,Delhi - Rohini,6364,69,1,9,0,0,2
+233,Delhi - Lajpat Nagar,8397,87,1,10,1,0,0
+234,Surat - Adajan,7234,94,4,24,1,0,1
+235,Surat - Vesu,5065,88,5,12,0,0,1
+236,Pune - Hinjewadi,5397,73,3,11,0,1,2
+237,Pune - Kothrud,6684,86,5,7,0,0,1
+238,Jaipur - Mansarovar,8888,56,4,9,1,0,0
+239,Rajkot - Kalawad Road,4919,77,3,0,0,0,2
+240,Ahmedabad - Maninagar,7959,45,2,9,1,0,0
+241,Ahmedabad - Bopal,5933,69,2,2,1,0,2
+242,Mumbai - Andheri,5926,63,4,12,0,0,1
+243,Mumbai - Borivali,6721,69,5,10,0,0,1
+244,Delhi - Rohini,5939,69,3,12,0,0,2
+245,Delhi - Lajpat Nagar,6373,96,3,9,0,0,2
+246,Surat - Adajan,3349,69,5,9,1,0,1
+247,Surat - Vesu,5544,57,2,17,1,0,2
+248,Pune - Hinjewadi,9909,42,4,21,1,0,0
+249,Pune - Kothrud,4065,72,5,0,1,0,1
+250,Jaipur - Mansarovar,8371,68,1,14,1,0,0
+251,Rajkot - Kalawad Road,5169,48,5,15,0,0,1
+252,Ahmedabad - Maninagar,8842,53,4,12,1,0,0
+253,Ahmedabad - Bopal,8560,74,5,22,1,0,1
+254,Mumbai - Andheri,5774,76,5,8,0,0,1
+255,Mumbai - Borivali,7704,69,4,15,0,0,1
+256,Delhi - Rohini,9491,56,5,3,1,0,0
+257,Delhi - Lajpat Nagar,4827,55,3,17,0,0,2
+258,Surat - Adajan,8205,51,5,16,0,0,1
+259,Surat - Vesu,3685,53,2,11,0,0,2
+260,Pune - Hinjewadi,3589,94,3,21,1,1,2
+261,Pune - Kothrud,6081,45,4,21,0,0,1
+262,Jaipur - Mansarovar,6168,63,3,4,0,0,0
+263,Rajkot - Kalawad Road,8060,67,1,1,0,0,0
+264,Ahmedabad - Maninagar,3702,69,5,12,1,0,1
+265,Ahmedabad - Bopal,4922,44,1,0,0,0,2
+266,Mumbai - Andheri,6534,95,1,15,0,0,2
+267,Mumbai - Borivali,9039,51,4,21,0,0,0
+268,Delhi - Rohini,9081,41,4,14,0,0,0
+269,Delhi - Lajpat Nagar,6842,95,4,15,0,0,1
+270,Surat - Adajan,7775,74,4,21,1,0,1
+271,Surat - Vesu,5381,83,4,22,1,0,1
+272,Pune - Hinjewadi,4438,69,5,15,0,0,1
+273,Pune - Kothrud,6076,62,2,12,1,0,2
+274,Jaipur - Mansarovar,6373,78,2,4,1,0,2
+275,Rajkot - Kalawad Road,5270,53,3,9,0,0,2
+276,Ahmedabad - Maninagar,6355,69,2,15,0,0,2
+277,Ahmedabad - Bopal,6928,94,1,22,1,0,2
+278,Mumbai - Andheri,9954,56,2,6,1,1,0
+279,Mumbai - Borivali,7580,47,2,6,0,0,0
+280,Delhi - Rohini,5352,53,1,20,0,0,2
+281,Delhi - Lajpat Nagar,6373,85,1,18,1,0,2
+282,Surat - Adajan,4123,57,1,2,0,0,2
+283,Surat - Vesu,3239,91,1,0,1,0,2
+284,Pune - Hinjewadi,6579,41,5,11,0,0,1
+285,Pune - Kothrud,6401,82,2,1,1,1,2
+286,Jaipur - Mansarovar,3972,96,4,21,1,0,1
+287,Rajkot - Kalawad Road,9631,51,2,21,0,1,0
+288,Ahmedabad - Maninagar,6373,70,3,0,0,1,0
+289,Ahmedabad - Bopal,6373,77,4,20,1,0,1
+290,Mumbai - Andheri,6872,93,5,3,0,0,1
+291,Mumbai - Borivali,8743,93,3,12,0,0,0
+292,Delhi - Rohini,5353,63,3,23,1,0,2
+293,Delhi - Lajpat Nagar,4220,72,2,0,0,0,2
+294,Surat - Adajan,3801,48,4,5,0,0,1
+295,Surat - Vesu,4490,54,4,12,1,1,1
+296,Pune - Hinjewadi,3804,86,2,18,0,0,2
+297,Pune - Kothrud,6373,93,5,12,0,0,1
+298,Jaipur - Mansarovar,5069,78,3,13,0,0,2
+299,Rajkot - Kalawad Road,6373,92,1,9,1,0,2
+300,Ahmedabad - Maninagar,5489,64,3,19,0,0,2
+301,Ahmedabad - Bopal,7155,44,1,10,0,0,0
+302,Mumbai - Andheri,4099,69,1,15,1,0,2
+303,Mumbai - Borivali,8340,55,1,2,1,1,0
+304,Delhi - Rohini,8033,54,1,12,0,0,0
+305,Delhi - Lajpat Nagar,8333,82,4,14,1,1,1
+306,Surat - Adajan,5424,95,2,17,0,0,2
+307,Surat - Vesu,4517,92,4,2,0,1,1
+308,Pune - Hinjewadi,6373,76,2,18,1,0,2
+309,Pune - Kothrud,3980,90,3,13,0,0,2
+310,Jaipur - Mansarovar,3297,60,1,12,0,0,2
+311,Rajkot - Kalawad Road,8455,43,5,10,0,0,0
+312,Ahmedabad - Maninagar,7400,66,4,20,1,0,1
+313,Ahmedabad - Bopal,6565,69,4,18,0,0,1
+314,Mumbai - Andheri,3039,64,4,13,0,0,1
+315,Mumbai - Borivali,8989,55,1,11,1,0,0
+316,Delhi - Rohini,5685,79,1,19,1,0,2
+317,Delhi - Lajpat Nagar,3544,66,4,10,1,1,1
+318,Surat - Adajan,4198,89,1,8,1,0,2
+319,Surat - Vesu,4311,44,2,9,1,0,2
+320,Pune - Hinjewadi,3424,72,4,11,0,0,1
+321,Pune - Kothrud,9959,65,5,21,0,0,1
+322,Jaipur - Mansarovar,6967,95,3,14,0,0,1
+323,Rajkot - Kalawad Road,3345,44,1,21,1,0,2
+324,Ahmedabad - Maninagar,9242,62,1,12,1,0,0
+325,Ahmedabad - Bopal,6124,40,5,18,1,1,1
+326,Mumbai - Andheri,4696,99,4,0,0,0,1
+327,Mumbai - Borivali,7293,92,1,0,0,0,2
+328,Delhi - Rohini,8425,72,2,12,1,0,0
+329,Delhi - Lajpat Nagar,4588,89,4,6,0,0,1
+330,Surat - Adajan,5230,69,4,11,1,0,1
+331,Surat - Vesu,6373,78,5,19,0,0,1
+332,Pune - Hinjewadi,9547,41,1,8,0,0,0
+333,Pune - Kothrud,9172,94,3,14,1,0,0
+334,Jaipur - Mansarovar,5663,52,3,6,0,0,0
+335,Rajkot - Kalawad Road,6373,71,4,3,1,0,1
+336,Ahmedabad - Maninagar,3498,74,1,20,0,0,2
+337,Ahmedabad - Bopal,5229,45,5,18,1,0,1
+338,Mumbai - Andheri,5498,69,5,14,1,0,1
+339,Mumbai - Borivali,6509,95,5,7,0,1,1
+340,Delhi - Rohini,9148,66,4,20,1,0,0
+341,Delhi - Lajpat Nagar,5541,92,2,9,0,1,2
+342,Surat - Adajan,7319,78,3,8,1,1,0
+343,Surat - Vesu,5830,65,3,6,0,0,2
+344,Pune - Hinjewadi,4972,45,2,7,1,0,2
+345,Pune - Kothrud,6373,94,1,17,0,0,2
+346,Jaipur - Mansarovar,7389,65,3,12,0,0,0
+347,Rajkot - Kalawad Road,3202,70,3,20,0,0,2
+348,Ahmedabad - Maninagar,6254,86,2,10,0,0,2
+349,Ahmedabad - Bopal,6307,69,1,11,0,0,2
+350,Mumbai - Andheri,8586,73,2,18,0,0,0
+351,Mumbai - Borivali,8110,69,2,20,1,0,0
+352,Delhi - Rohini,6373,62,1,4,1,0,2
+353,Delhi - Lajpat Nagar,4875,54,2,22,1,0,2
+354,Surat - Adajan,8018,69,3,8,0,0,0
+355,Surat - Vesu,6373,95,2,8,0,0,2
+356,Pune - Hinjewadi,7069,79,2,20,0,0,2
+357,Pune - Kothrud,3619,60,5,3,0,0,1
+358,Jaipur - Mansarovar,8307,86,4,7,0,1,1
+359,Rajkot - Kalawad Road,6976,69,1,21,0,0,2
+360,Ahmedabad - Maninagar,7513,60,4,8,0,0,0
+361,Ahmedabad - Bopal,6812,51,4,23,1,0,1
+362,Mumbai - Andheri,9775,46,2,5,0,1,0
+363,Mumbai - Borivali,3096,42,4,5,0,1,1
+364,Delhi - Rohini,3539,73,1,4,0,0,2
+365,Delhi - Lajpat Nagar,9572,42,2,2,0,0,0
+366,Surat - Adajan,9532,42,2,4,0,0,0
+367,Surat - Vesu,9003,63,5,10,0,0,1
+368,Pune - Hinjewadi,6805,59,2,10,1,0,0
+369,Pune - Kothrud,7507,62,1,8,1,0,0
+370,Jaipur - Mansarovar,5949,41,3,17,0,0,0
+371,Rajkot - Kalawad Road,9662,72,4,11,0,0,0
+372,Ahmedabad - Maninagar,3852,72,2,15,1,0,2
+373,Ahmedabad - Bopal,7142,70,2,5,1,0,0
+374,Mumbai - Andheri,6373,51,1,5,0,1,0
+375,Mumbai - Borivali,9751,40,3,19,0,0,0
+376,Delhi - Rohini,7164,62,4,2,1,0,0
+377,Delhi - Lajpat Nagar,5354,51,2,12,0,0,2
+378,Surat - Adajan,9099,76,4,19,0,1,1
+379,Surat - Vesu,3340,62,3,10,1,0,2
+380,Pune - Hinjewadi,4110,50,4,14,0,0,1
+381,Pune - Kothrud,4021,53,5,13,0,0,1
+382,Jaipur - Mansarovar,8071,61,2,3,1,0,0
+383,Rajkot - Kalawad Road,3308,94,5,5,1,0,1
+384,Ahmedabad - Maninagar,5337,80,4,9,1,0,1
+385,Ahmedabad - Bopal,7292,73,1,13,1,0,2
+386,Mumbai - Andheri,6361,62,4,19,0,0,1
+387,Mumbai - Borivali,3577,60,4,18,1,0,1
+388,Delhi - Rohini,6066,57,3,18,1,0,0
+389,Delhi - Lajpat Nagar,8448,43,2,6,0,0,0
+390,Surat - Adajan,9035,89,5,14,0,1,1
+391,Surat - Vesu,7286,77,2,5,1,0,0
+392,Pune - Hinjewadi,7039,45,3,3,0,0,0
+393,Pune - Kothrud,5351,82,2,24,1,0,2
+394,Jaipur - Mansarovar,8266,63,4,6,1,0,0
+395,Rajkot - Kalawad Road,3826,70,4,14,0,0,1
+396,Ahmedabad - Maninagar,7952,86,2,12,0,0,0
+397,Ahmedabad - Bopal,5608,68,4,10,0,0,1
+398,Mumbai - Andheri,3733,98,4,16,0,1,1
+399,Mumbai - Borivali,4283,58,1,4,0,0,2
+400,Delhi - Rohini,6549,47,4,12,0,0,1
+401,Delhi - Lajpat Nagar,5376,43,1,4,0,0,2
+402,Surat - Adajan,5757,76,1,16,1,0,2
+403,Surat - Vesu,6373,47,5,20,1,0,1
+404,Pune - Hinjewadi,5027,48,1,20,0,0,2
+405,Pune - Kothrud,7881,48,3,14,0,1,0
+406,Jaipur - Mansarovar,6839,45,4,3,1,0,0
+407,Rajkot - Kalawad Road,7065,69,1,16,1,1,2
+408,Ahmedabad - Maninagar,3309,97,5,2,0,0,1
+409,Ahmedabad - Bopal,4323,71,1,23,0,0,2
+410,Mumbai - Andheri,7896,79,2,14,0,0,0
+411,Mumbai - Borivali,3756,85,3,12,0,0,2
+412,Delhi - Rohini,6471,70,1,11,1,0,2
+413,Delhi - Lajpat Nagar,5729,69,2,15,1,0,2
+414,Surat - Adajan,9077,89,5,11,0,0,1
+415,Surat - Vesu,8176,99,2,3,0,0,0
+416,Pune - Hinjewadi,7291,77,2,1,0,0,0
+417,Pune - Kothrud,5660,44,5,16,0,0,1
+418,Jaipur - Mansarovar,7397,40,2,17,0,1,0
+419,Rajkot - Kalawad Road,8606,51,2,6,1,0,0
+420,Ahmedabad - Maninagar,5506,93,4,15,1,0,1
+421,Ahmedabad - Bopal,8697,64,3,10,0,1,0
+422,Mumbai - Andheri,5679,84,4,11,1,0,1
+423,Mumbai - Borivali,5944,83,1,10,1,1,2
+424,Delhi - Rohini,3598,77,1,16,1,1,2
+425,Delhi - Lajpat Nagar,5481,96,4,12,1,0,1
+426,Surat - Adajan,5370,68,2,9,1,0,2
+427,Surat - Vesu,3741,75,2,21,0,0,2
+428,Pune - Hinjewadi,6877,73,4,11,0,0,1
+429,Pune - Kothrud,5039,43,4,12,0,1,1
+430,Jaipur - Mansarovar,8727,58,3,5,0,0,0
+431,Rajkot - Kalawad Road,4679,70,3,15,0,0,2
+432,Ahmedabad - Maninagar,8635,59,5,9,0,0,1
+433,Ahmedabad - Bopal,8750,80,3,5,0,0,0
+434,Mumbai - Andheri,6373,41,5,4,1,0,1
+435,Mumbai - Borivali,7267,90,3,11,1,1,1
+436,Delhi - Rohini,3470,73,5,13,1,1,1
+437,Delhi - Lajpat Nagar,6142,52,1,12,0,0,0
+438,Surat - Adajan,4166,58,3,12,1,0,2
+439,Surat - Vesu,6953,88,1,18,0,0,2
+440,Pune - Hinjewadi,7143,41,1,12,1,0,0
+441,Pune - Kothrud,7669,91,2,2,0,0,2
+442,Jaipur - Mansarovar,6373,71,4,20,0,0,1
+443,Rajkot - Kalawad Road,6267,69,2,14,0,0,2
+444,Ahmedabad - Maninagar,5836,69,2,11,0,0,2
+445,Ahmedabad - Bopal,3160,79,2,1,0,0,2
+446,Mumbai - Andheri,7729,60,3,17,0,0,0
+447,Mumbai - Borivali,5889,62,3,9,0,0,2
+448,Delhi - Rohini,9255,95,2,22,1,0,0
+449,Delhi - Lajpat Nagar,4600,71,4,12,0,1,1
+450,Surat - Adajan,6991,54,3,19,0,0,0
+451,Surat - Vesu,7058,60,2,10,0,0,0
+452,Pune - Hinjewadi,6275,73,2,10,1,0,2
+453,Pune - Kothrud,9593,63,1,21,0,0,0
+454,Jaipur - Mansarovar,3469,41,5,23,0,0,1
+455,Rajkot - Kalawad Road,7847,95,2,17,0,0,2
+456,Ahmedabad - Maninagar,7501,83,5,15,0,0,1
+457,Ahmedabad - Bopal,3046,72,2,3,1,0,2
+458,Mumbai - Andheri,7816,69,1,12,1,0,0
+459,Mumbai - Borivali,6373,41,4,24,1,0,1
+460,Delhi - Rohini,6273,96,5,3,1,0,1
+461,Delhi - Lajpat Nagar,5759,40,4,19,1,0,1
+462,Surat - Adajan,4569,73,2,7,1,0,2
+463,Surat - Vesu,8693,64,3,12,1,0,0
+464,Pune - Hinjewadi,3163,91,1,21,1,1,2
+465,Pune - Kothrud,7032,91,1,16,1,1,2
+466,Jaipur - Mansarovar,7575,51,4,5,0,0,0
+467,Rajkot - Kalawad Road,6359,72,5,20,1,0,1
+468,Ahmedabad - Maninagar,6373,70,1,3,1,0,2
+469,Ahmedabad - Bopal,5164,54,5,4,0,0,1
+470,Mumbai - Andheri,7818,72,1,13,0,0,0
+471,Mumbai - Borivali,7157,63,1,6,0,0,0
+472,Delhi - Rohini,4675,44,2,12,1,0,2
+473,Delhi - Lajpat Nagar,6373,41,2,4,1,0,0
+474,Surat - Adajan,7378,91,3,23,0,0,1
+475,Surat - Vesu,3288,61,3,23,1,0,2
+476,Pune - Hinjewadi,8359,52,5,16,0,1,1
+477,Pune - Kothrud,9426,56,5,23,0,0,1
+478,Jaipur - Mansarovar,8884,91,4,1,1,0,1
+479,Rajkot - Kalawad Road,7911,78,4,7,0,0,1
+480,Ahmedabad - Maninagar,3092,82,2,7,0,0,2
+481,Ahmedabad - Bopal,8170,53,3,1,1,0,0
+482,Mumbai - Andheri,9050,93,2,6,0,1,0
+483,Mumbai - Borivali,6373,69,1,23,1,0,2
+484,Delhi - Rohini,3451,64,1,23,1,0,2
+485,Delhi - Lajpat Nagar,8883,72,2,20,1,0,0
+486,Surat - Adajan,3881,69,2,19,1,0,2
+487,Surat - Vesu,3230,69,4,0,0,0,1
+488,Pune - Hinjewadi,6373,60,2,2,0,1,0
+489,Pune - Kothrud,4928,79,5,0,0,0,1
+490,Jaipur - Mansarovar,6952,97,2,0,1,0,2
+491,Rajkot - Kalawad Road,6404,71,3,14,0,0,1
+492,Ahmedabad - Maninagar,9697,69,1,0,1,0,0
+493,Ahmedabad - Bopal,6373,58,3,11,0,0,0
+494,Mumbai - Andheri,5634,70,3,0,1,0,2
+495,Mumbai - Borivali,5952,85,4,17,0,0,1
+496,Delhi - Rohini,6373,69,5,18,0,0,1
+497,Delhi - Lajpat Nagar,6302,92,2,13,0,0,2
+498,Surat - Adajan,8141,91,3,14,0,0,1
+499,Surat - Vesu,3257,58,3,9,1,0,2
+500,Pune - Hinjewadi,9735,69,4,18,1,0,0
+501,Pune - Kothrud,6282,61,4,13,0,0,1
+502,Jaipur - Mansarovar,4313,90,2,9,1,0,2
+503,Rajkot - Kalawad Road,3959,49,5,6,0,0,1
+504,Ahmedabad - Maninagar,6373,58,3,20,0,0,0
+505,Ahmedabad - Bopal,4390,71,2,18,0,0,2
+506,Mumbai - Andheri,6121,94,2,8,1,1,2
+507,Mumbai - Borivali,6437,97,4,12,0,0,1
+508,Delhi - Rohini,8036,63,2,21,0,1,0
+509,Delhi - Lajpat Nagar,9678,40,3,2,1,0,0
+510,Surat - Adajan,8585,41,2,12,0,0,0
+511,Surat - Vesu,8275,52,1,5,0,0,0
+512,Pune - Hinjewadi,9949,55,5,12,1,0,0
+513,Pune - Kothrud,8590,63,2,12,0,1,0
+514,Jaipur - Mansarovar,6332,92,2,0,1,0,2
+515,Rajkot - Kalawad Road,7560,45,4,24,1,0,0
+516,Ahmedabad - Maninagar,6090,69,4,10,1,0,1
+517,Ahmedabad - Bopal,5608,69,3,22,0,1,2
+518,Mumbai - Andheri,6373,56,3,20,0,0,0
+519,Mumbai - Borivali,3034,86,4,4,0,0,1
+520,Delhi - Rohini,9844,87,1,9,0,0,0
+521,Delhi - Lajpat Nagar,7662,52,5,8,1,0,1
+522,Surat - Adajan,5777,62,3,24,0,0,1
+523,Surat - Vesu,4297,61,2,23,1,0,2
+524,Pune - Hinjewadi,3394,51,1,18,1,0,2
+525,Pune - Kothrud,5459,68,2,1,1,0,2
+526,Jaipur - Mansarovar,4954,69,2,5,1,0,2
+527,Rajkot - Kalawad Road,8222,75,2,24,1,1,0
+528,Ahmedabad - Maninagar,3082,69,5,14,0,0,1
+529,Ahmedabad - Bopal,5478,69,3,10,1,0,2
+530,Mumbai - Andheri,7559,69,3,3,0,0,0
+531,Mumbai - Borivali,3876,50,1,2,0,0,2
+532,Delhi - Rohini,8187,69,5,12,0,0,1
+533,Delhi - Lajpat Nagar,5039,88,4,16,0,0,1
+534,Surat - Adajan,5241,42,5,13,1,0,1
+535,Surat - Vesu,8380,69,3,8,0,0,0
+536,Pune - Hinjewadi,3119,78,5,4,0,0,1
+537,Pune - Kothrud,5531,81,5,20,0,0,1
+538,Jaipur - Mansarovar,3194,55,3,11,0,0,2
+539,Rajkot - Kalawad Road,5455,94,1,5,1,0,2
+540,Ahmedabad - Maninagar,4132,72,2,5,1,0,2
+541,Ahmedabad - Bopal,3657,87,2,2,1,1,2
+542,Mumbai - Andheri,3477,55,2,0,1,0,2
+543,Mumbai - Borivali,7795,68,4,12,0,0,1
+544,Delhi - Rohini,3541,72,3,3,1,0,2
+545,Delhi - Lajpat Nagar,4405,48,5,6,0,0,1
+546,Surat - Adajan,3118,85,2,22,1,0,2
+547,Surat - Vesu,3773,56,1,12,1,0,2
+548,Pune - Hinjewadi,5589,62,4,19,1,0,1
+549,Pune - Kothrud,3482,69,2,12,1,0,2
+550,Jaipur - Mansarovar,9527,93,3,13,0,1,0
+551,Rajkot - Kalawad Road,6373,63,2,2,1,0,0
+552,Ahmedabad - Maninagar,3563,74,2,23,0,0,2
+553,Ahmedabad - Bopal,7585,83,5,19,0,0,1
+554,Mumbai - Andheri,5068,46,2,21,1,0,2
+555,Mumbai - Borivali,3435,49,3,10,0,0,2
+556,Delhi - Rohini,5299,86,4,12,0,0,1
+557,Delhi - Lajpat Nagar,7396,91,2,14,1,1,2
+558,Surat - Adajan,8562,51,2,10,1,0,0
+559,Surat - Vesu,6155,47,3,12,0,0,0
+560,Pune - Hinjewadi,8080,52,2,13,0,0,0
+561,Pune - Kothrud,7450,69,2,0,0,0,0
+562,Jaipur - Mansarovar,4672,52,4,10,0,0,1
+563,Rajkot - Kalawad Road,8018,83,2,12,0,0,0
+564,Ahmedabad - Maninagar,5620,98,2,1,0,0,2
+565,Ahmedabad - Bopal,9045,86,2,8,1,0,0
+566,Mumbai - Andheri,6167,76,3,3,0,0,2
+567,Mumbai - Borivali,8631,44,1,24,0,0,0
+568,Delhi - Rohini,8066,83,2,12,1,0,0
+569,Delhi - Lajpat Nagar,6373,73,3,10,1,0,2
+570,Surat - Adajan,9108,51,5,12,1,0,0
+571,Surat - Vesu,3127,57,2,23,1,0,2
+572,Pune - Hinjewadi,8742,94,5,6,1,0,1
+573,Pune - Kothrud,4622,48,4,8,0,0,1
+574,Jaipur - Mansarovar,7964,86,3,16,1,0,1
+575,Rajkot - Kalawad Road,6373,46,1,10,1,0,0
+576,Ahmedabad - Maninagar,8524,48,3,13,1,0,0
+577,Ahmedabad - Bopal,6111,94,2,13,1,0,2
+578,Mumbai - Andheri,7623,81,1,19,0,0,2
+579,Mumbai - Borivali,5488,66,1,10,1,1,2
+580,Delhi - Rohini,8178,41,5,0,0,0,0
+581,Delhi - Lajpat Nagar,9739,52,2,16,1,0,0
+582,Surat - Adajan,8037,65,3,14,1,0,0
+583,Surat - Vesu,8519,66,2,15,1,0,0
+584,Pune - Hinjewadi,6093,92,2,4,1,0,2
+585,Pune - Kothrud,8364,42,5,10,0,0,0
+586,Jaipur - Mansarovar,6387,40,4,13,1,0,0
+587,Rajkot - Kalawad Road,8687,63,1,13,0,0,0
+588,Ahmedabad - Maninagar,5907,63,4,20,0,0,1
+589,Ahmedabad - Bopal,6989,82,2,12,0,0,2
+590,Mumbai - Andheri,7077,96,4,22,1,0,1
+591,Mumbai - Borivali,3001,75,2,13,0,0,2
+592,Delhi - Rohini,4417,85,3,20,1,0,2
+593,Delhi - Lajpat Nagar,4867,87,4,9,1,0,1
+594,Surat - Adajan,3193,56,5,16,1,0,1
+595,Surat - Vesu,6714,43,2,20,1,1,0
+596,Pune - Hinjewadi,6373,78,1,11,1,0,2
+597,Pune - Kothrud,6030,70,5,12,1,0,1
+598,Jaipur - Mansarovar,8285,49,2,1,0,0,0
+599,Rajkot - Kalawad Road,6373,55,3,5,0,0,0
+600,Ahmedabad - Maninagar,6373,71,4,3,0,0,1
+601,Ahmedabad - Bopal,7690,60,3,13,0,0,0
+602,Mumbai - Andheri,6373,43,5,11,0,0,1
+603,Mumbai - Borivali,8549,58,4,12,0,0,0
+604,Delhi - Rohini,6167,72,1,20,0,0,2
+605,Delhi - Lajpat Nagar,9639,85,5,18,0,1,1
+606,Surat - Adajan,8407,73,2,13,0,0,0
+607,Surat - Vesu,5170,84,2,7,1,0,2
+608,Pune - Hinjewadi,4152,88,5,22,1,1,1
+609,Pune - Kothrud,8065,52,3,18,1,0,0
+610,Jaipur - Mansarovar,6546,60,5,24,0,0,1
+611,Rajkot - Kalawad Road,3932,43,1,14,1,0,2
+612,Ahmedabad - Maninagar,5168,92,4,24,1,0,1
+613,Ahmedabad - Bopal,9599,95,2,15,0,1,0
+614,Mumbai - Andheri,6373,87,3,24,1,0,1
+615,Mumbai - Borivali,4139,44,5,9,1,1,1
+616,Delhi - Rohini,6979,80,4,16,0,1,1
+617,Delhi - Lajpat Nagar,4705,69,1,18,0,0,2
+618,Surat - Adajan,6373,86,2,14,1,0,2
+619,Surat - Vesu,7829,71,5,12,1,0,1
+620,Pune - Hinjewadi,4594,48,2,11,0,0,2
+621,Pune - Kothrud,7668,64,4,4,0,0,0
+622,Jaipur - Mansarovar,6324,66,5,0,0,0,1
+623,Rajkot - Kalawad Road,8927,69,3,12,1,0,0
+624,Ahmedabad - Maninagar,6878,64,4,2,1,0,1
+625,Ahmedabad - Bopal,3353,80,2,21,1,0,2
+626,Mumbai - Andheri,6373,84,4,6,0,0,1
+627,Mumbai - Borivali,6027,64,5,23,1,0,1
+628,Delhi - Rohini,5957,76,4,2,0,0,1
+629,Delhi - Lajpat Nagar,7970,54,2,16,1,0,0
+630,Surat - Adajan,3520,86,1,4,1,1,2
+631,Surat - Vesu,8068,78,3,17,0,1,0
+632,Pune - Hinjewadi,6465,79,5,1,1,0,1
+633,Pune - Kothrud,4362,94,2,13,1,0,2
+634,Jaipur - Mansarovar,5799,64,2,12,0,1,2
+635,Rajkot - Kalawad Road,9667,40,3,7,0,0,0
+636,Ahmedabad - Maninagar,4618,91,1,9,0,0,2
+637,Ahmedabad - Bopal,6111,48,3,12,0,1,0
+638,Mumbai - Andheri,5788,99,2,12,0,0,2
+639,Mumbai - Borivali,9097,48,5,1,0,0,0
+640,Delhi - Rohini,4925,54,5,6,0,0,1
+641,Delhi - Lajpat Nagar,8503,43,1,16,1,0,0
+642,Surat - Adajan,6506,47,1,21,0,0,0
+643,Surat - Vesu,3857,76,3,17,0,0,2
+644,Pune - Hinjewadi,9095,99,5,22,1,0,1
+645,Pune - Kothrud,5006,93,3,22,1,0,2
+646,Jaipur - Mansarovar,4155,43,4,9,0,0,1
+647,Rajkot - Kalawad Road,3369,71,4,16,1,0,1
+648,Ahmedabad - Maninagar,6326,95,2,20,1,0,2
+649,Ahmedabad - Bopal,5506,69,2,4,0,0,2
+650,Mumbai - Andheri,9139,98,4,16,0,0,1
+651,Mumbai - Borivali,6371,44,2,15,1,0,0
+652,Delhi - Rohini,3695,46,1,8,0,0,2
+653,Delhi - Lajpat Nagar,6645,82,5,24,1,0,1
+654,Surat - Adajan,8561,76,2,11,1,0,0
+655,Surat - Vesu,7285,69,1,12,0,0,0
+656,Pune - Hinjewadi,5326,93,5,20,1,0,1
+657,Pune - Kothrud,5018,67,1,13,0,0,2
+658,Jaipur - Mansarovar,6373,76,2,16,1,0,2
+659,Rajkot - Kalawad Road,9937,89,5,24,1,1,1
+660,Ahmedabad - Maninagar,8194,43,2,15,1,1,0
+661,Ahmedabad - Bopal,3699,87,2,12,1,0,2
+662,Mumbai - Andheri,5354,50,2,19,0,0,2
+663,Mumbai - Borivali,3058,69,3,24,1,0,2
+664,Delhi - Rohini,8425,68,1,3,1,0,0
+665,Delhi - Lajpat Nagar,4417,78,2,12,0,0,2
+666,Surat - Adajan,8840,88,5,23,0,0,1
+667,Surat - Vesu,6106,61,4,8,1,0,1
+668,Pune - Hinjewadi,4479,85,3,11,1,0,2
+669,Pune - Kothrud,4950,58,2,21,0,0,2
+670,Jaipur - Mansarovar,5908,76,5,17,0,0,1
+671,Rajkot - Kalawad Road,4925,75,5,22,0,1,1
+672,Ahmedabad - Maninagar,8110,69,2,23,1,0,0
+673,Ahmedabad - Bopal,7878,71,5,5,1,0,1
+674,Mumbai - Andheri,8787,94,4,16,0,0,1
+675,Mumbai - Borivali,4887,55,3,4,1,1,2
+676,Delhi - Rohini,4546,69,5,5,0,0,1
+677,Delhi - Lajpat Nagar,5149,69,2,12,1,0,2
+678,Surat - Adajan,5698,57,5,6,0,0,1
+679,Surat - Vesu,6373,92,1,6,1,0,2
+680,Pune - Hinjewadi,6373,53,1,11,0,0,0
+681,Pune - Kothrud,5609,94,1,20,0,0,2
+682,Jaipur - Mansarovar,6373,60,2,3,1,1,0
+683,Rajkot - Kalawad Road,5041,56,3,19,1,0,2
+684,Ahmedabad - Maninagar,3774,93,5,22,1,0,1
+685,Ahmedabad - Bopal,7783,47,1,19,1,0,0
+686,Mumbai - Andheri,7200,78,4,23,0,0,1
+687,Mumbai - Borivali,5039,71,2,19,0,0,2
+688,Delhi - Rohini,6373,51,3,20,1,0,0
+689,Delhi - Lajpat Nagar,9996,52,1,5,1,0,0
+690,Surat - Adajan,6373,64,1,14,0,1,2
+691,Surat - Vesu,6758,97,3,4,1,0,2
+692,Pune - Hinjewadi,9029,40,2,9,1,0,0
+693,Pune - Kothrud,6855,64,5,17,0,0,1
+694,Jaipur - Mansarovar,6205,84,1,13,1,1,2
+695,Rajkot - Kalawad Road,5418,63,3,22,0,0,2
+696,Ahmedabad - Maninagar,5469,44,1,3,1,0,0
+697,Ahmedabad - Bopal,4979,75,5,15,0,0,1
+698,Mumbai - Andheri,6303,67,3,12,0,0,2
+699,Mumbai - Borivali,8388,88,3,5,0,0,0
+700,Delhi - Rohini,6997,41,2,21,0,0,0
+701,Delhi - Lajpat Nagar,4814,64,3,4,1,0,2
+702,Surat - Adajan,9217,81,1,12,1,0,0
+703,Surat - Vesu,3819,80,4,13,0,0,1
+704,Pune - Hinjewadi,3823,96,4,5,1,0,1
+705,Pune - Kothrud,7550,59,2,11,0,0,0
+706,Jaipur - Mansarovar,8871,94,4,14,0,0,1
+707,Rajkot - Kalawad Road,3761,48,4,8,0,0,1
+708,Ahmedabad - Maninagar,5472,57,2,3,1,1,2
+709,Ahmedabad - Bopal,9371,47,2,17,0,0,0
+710,Mumbai - Andheri,4646,91,2,0,1,0,2
+711,Mumbai - Borivali,7158,64,2,23,1,0,0
+712,Delhi - Rohini,3295,70,3,1,0,0,2
+713,Delhi - Lajpat Nagar,4356,69,2,21,1,0,2
+714,Surat - Adajan,6373,96,4,4,0,0,1
+715,Surat - Vesu,9350,56,1,7,1,1,0
+716,Pune - Hinjewadi,5576,69,5,18,1,0,1
+717,Pune - Kothrud,8121,97,4,12,0,1,1
+718,Jaipur - Mansarovar,5703,58,3,10,1,1,2
+719,Rajkot - Kalawad Road,5552,77,3,10,0,0,2
+720,Ahmedabad - Maninagar,7837,95,2,23,0,0,2
+721,Ahmedabad - Bopal,5083,57,4,9,0,0,1
+722,Mumbai - Andheri,6319,72,1,12,0,1,2
+723,Mumbai - Borivali,7173,76,1,5,1,0,2
+724,Delhi - Rohini,6373,82,1,18,0,0,2
+725,Delhi - Lajpat Nagar,3772,83,4,18,1,0,1
+726,Surat - Adajan,9449,55,4,17,0,0,0
+727,Surat - Vesu,3218,69,5,1,1,0,1
+728,Pune - Hinjewadi,9468,90,4,22,1,1,1
+729,Pune - Kothrud,4518,69,4,17,0,1,1
+730,Jaipur - Mansarovar,4387,69,1,10,1,0,2
+731,Rajkot - Kalawad Road,6226,40,5,8,0,0,1
+732,Ahmedabad - Maninagar,7483,66,4,11,0,0,1
+733,Ahmedabad - Bopal,6457,75,4,2,0,0,1
+734,Mumbai - Andheri,7996,75,5,20,1,1,1
+735,Mumbai - Borivali,4822,65,5,9,1,0,1
+736,Delhi - Rohini,7659,96,1,23,1,0,2
+737,Delhi - Lajpat Nagar,4098,89,1,5,1,0,2
+738,Surat - Adajan,6540,42,2,19,1,0,0
+739,Surat - Vesu,3026,89,3,16,0,0,2
+740,Pune - Hinjewadi,7817,93,5,1,1,0,1
+741,Pune - Kothrud,7050,47,2,22,0,0,0
+742,Jaipur - Mansarovar,6887,70,3,5,1,0,0
+743,Rajkot - Kalawad Road,7905,92,2,7,0,0,0
+744,Ahmedabad - Maninagar,9835,71,2,16,1,0,0
+745,Ahmedabad - Bopal,3842,81,1,7,0,0,2
+746,Mumbai - Andheri,4395,50,4,15,1,0,1
+747,Mumbai - Borivali,9061,49,1,22,0,0,0
+748,Delhi - Rohini,7198,84,4,22,1,0,1
+749,Delhi - Lajpat Nagar,7986,42,3,17,0,0,0
+750,Surat - Adajan,5770,95,5,6,1,1,1
+751,Surat - Vesu,9063,65,1,19,0,0,0
+752,Pune - Hinjewadi,8016,73,1,11,1,0,0
+753,Pune - Kothrud,7248,55,2,0,0,0,0
+754,Jaipur - Mansarovar,9444,91,5,22,0,0,1
+755,Rajkot - Kalawad Road,5945,79,4,1,0,1,1
+756,Ahmedabad - Maninagar,4880,53,4,8,0,0,1
+757,Ahmedabad - Bopal,9122,94,2,15,0,0,0
+758,Mumbai - Andheri,5836,91,2,5,0,0,2
+759,Mumbai - Borivali,8874,70,5,5,0,0,1
+760,Delhi - Rohini,8554,69,5,21,1,0,1
+761,Delhi - Lajpat Nagar,9225,98,3,2,0,0,0
+762,Surat - Adajan,9448,40,5,7,1,0,0
+763,Surat - Vesu,3931,99,4,13,1,0,1
+764,Pune - Hinjewadi,3905,76,2,14,0,0,2
+765,Pune - Kothrud,3032,76,2,11,1,0,2
+766,Jaipur - Mansarovar,5932,83,1,2,0,0,2
+767,Rajkot - Kalawad Road,4005,40,4,19,0,1,1
+768,Ahmedabad - Maninagar,7063,73,2,14,1,1,0
+769,Ahmedabad - Bopal,5631,69,4,3,1,0,1
+770,Mumbai - Andheri,4724,90,4,24,1,1,1
+771,Mumbai - Borivali,5979,43,2,4,0,0,0
+772,Delhi - Rohini,9989,68,5,23,0,0,1
+773,Delhi - Lajpat Nagar,5385,92,3,12,1,0,2
+774,Surat - Adajan,3684,55,1,18,1,0,2
+775,Surat - Vesu,8402,83,5,17,1,0,1
+776,Pune - Hinjewadi,4562,69,2,5,1,1,2
+777,Pune - Kothrud,8501,59,1,5,1,0,0
+778,Jaipur - Mansarovar,7579,69,3,24,0,0,0
+779,Rajkot - Kalawad Road,5939,65,1,5,0,0,2
+780,Ahmedabad - Maninagar,7626,72,2,14,1,1,0
+781,Ahmedabad - Bopal,6275,46,4,20,0,0,1
+782,Mumbai - Andheri,7632,89,5,1,0,1,1
+783,Mumbai - Borivali,6724,59,3,0,1,0,0
+784,Delhi - Rohini,3792,84,2,6,0,0,2
+785,Delhi - Lajpat Nagar,7735,42,4,15,0,0,0
+786,Surat - Adajan,8936,52,3,22,0,0,0
+787,Surat - Vesu,6344,79,2,17,0,0,2
+788,Pune - Hinjewadi,5857,90,2,21,0,0,2
+789,Pune - Kothrud,6950,40,5,5,1,0,1
+790,Jaipur - Mansarovar,8636,43,4,16,1,0,0
+791,Rajkot - Kalawad Road,9659,87,3,10,1,0,0
+792,Ahmedabad - Maninagar,7493,94,3,9,1,1,1
+793,Ahmedabad - Bopal,3296,96,3,12,1,0,2
+794,Mumbai - Andheri,9279,99,4,16,1,0,1
+795,Mumbai - Borivali,9271,69,5,7,1,0,1
+796,Delhi - Rohini,4522,95,3,22,1,0,2
+797,Delhi - Lajpat Nagar,8161,91,2,17,0,0,0
+798,Surat - Adajan,9198,40,1,12,1,1,0
+799,Surat - Vesu,8386,45,4,6,1,0,0
+800,Pune - Hinjewadi,3819,58,4,23,0,0,1
+801,Pune - Kothrud,6484,51,2,9,0,1,0
+802,Jaipur - Mansarovar,4643,53,2,18,0,0,2
+803,Rajkot - Kalawad Road,4900,66,5,18,1,0,1
+804,Ahmedabad - Maninagar,7199,95,2,0,0,0,2
+805,Ahmedabad - Bopal,3049,97,1,14,1,0,2
+806,Mumbai - Andheri,6373,93,5,19,0,0,1
+807,Mumbai - Borivali,8395,79,3,17,0,0,0
+808,Delhi - Rohini,7666,82,2,1,1,1,0
+809,Delhi - Lajpat Nagar,5402,76,2,13,0,0,2
+810,Surat - Adajan,5080,55,1,19,1,0,2
+811,Surat - Vesu,6867,45,4,7,1,0,0
+812,Pune - Hinjewadi,5093,83,2,17,0,0,2
+813,Pune - Kothrud,4311,41,5,17,0,1,1
+814,Jaipur - Mansarovar,9430,95,2,17,1,0,0
+815,Rajkot - Kalawad Road,9430,48,3,13,1,0,0
+816,Ahmedabad - Maninagar,9133,58,5,19,1,0,1
+817,Ahmedabad - Bopal,6373,81,3,15,1,0,1
+818,Mumbai - Andheri,3809,73,3,14,0,0,2
+819,Mumbai - Borivali,8077,56,5,16,0,0,1
+820,Delhi - Rohini,6331,62,4,13,1,0,1
+821,Delhi - Lajpat Nagar,4061,69,3,24,1,0,2
+822,Surat - Adajan,6373,66,5,1,0,0,1
+823,Surat - Vesu,6373,59,1,21,1,0,2
+824,Pune - Hinjewadi,3721,59,2,0,0,1,2
+825,Pune - Kothrud,6373,60,2,23,1,0,2
+826,Jaipur - Mansarovar,5155,81,2,1,1,0,2
+827,Rajkot - Kalawad Road,3173,97,5,23,1,0,1
+828,Ahmedabad - Maninagar,5844,83,1,9,1,0,2
+829,Ahmedabad - Bopal,6373,96,2,0,0,0,2
+830,Mumbai - Andheri,6373,84,4,18,0,0,1
+831,Mumbai - Borivali,8905,44,4,10,1,0,0
+832,Delhi - Rohini,7941,91,1,6,1,1,2
+833,Delhi - Lajpat Nagar,3481,62,3,0,0,0,2
+834,Surat - Adajan,9542,52,3,10,1,0,0
+835,Surat - Vesu,5326,77,1,17,0,0,2
+836,Pune - Hinjewadi,7942,43,5,19,0,0,1
+837,Pune - Kothrud,7604,51,2,21,0,1,0
+838,Jaipur - Mansarovar,4462,95,4,13,0,0,1
+839,Rajkot - Kalawad Road,3375,40,5,5,0,0,1
+840,Ahmedabad - Maninagar,4297,90,3,4,0,0,2
+841,Ahmedabad - Bopal,5439,74,4,14,0,0,1
+842,Mumbai - Andheri,7365,90,3,12,0,1,1
+843,Mumbai - Borivali,6806,52,1,23,0,1,0
+844,Delhi - Rohini,4280,84,2,17,1,0,2
+845,Delhi - Lajpat Nagar,6627,52,2,6,0,0,0
+846,Surat - Adajan,9944,81,1,16,1,0,0
+847,Surat - Vesu,8426,54,4,14,1,0,0
+848,Pune - Hinjewadi,5448,67,3,4,0,1,2
+849,Pune - Kothrud,8278,59,3,23,0,0,0
+850,Jaipur - Mansarovar,7660,53,1,18,0,1,0
+851,Rajkot - Kalawad Road,3824,59,1,15,1,1,2
+852,Ahmedabad - Maninagar,4206,51,1,11,0,0,2
+853,Ahmedabad - Bopal,5757,49,3,19,0,1,0
+854,Mumbai - Andheri,3314,99,3,5,0,0,2
+855,Mumbai - Borivali,9081,87,2,10,0,0,0
+856,Delhi - Rohini,7713,44,3,3,1,0,0
+857,Delhi - Lajpat Nagar,4494,60,3,4,0,1,2
+858,Surat - Adajan,5773,56,4,14,1,1,1
+859,Surat - Vesu,6373,94,2,18,0,0,2
+860,Pune - Hinjewadi,5710,81,4,0,0,0,1
+861,Pune - Kothrud,6373,95,1,2,0,0,2
+862,Jaipur - Mansarovar,3693,85,3,6,1,1,2
+863,Rajkot - Kalawad Road,8970,64,1,11,0,0,0
+864,Ahmedabad - Maninagar,6523,62,4,13,0,0,1
+865,Ahmedabad - Bopal,7112,86,3,10,1,0,1
+866,Mumbai - Andheri,3525,72,4,11,0,0,1
+867,Mumbai - Borivali,8124,51,1,8,0,1,0
+868,Delhi - Rohini,4282,56,4,7,1,0,1
+869,Delhi - Lajpat Nagar,4823,45,2,19,0,0,2
+870,Surat - Adajan,7464,69,3,15,1,0,0
+871,Surat - Vesu,4255,40,3,10,0,1,2
+872,Pune - Hinjewadi,9522,92,1,21,1,0,0
+873,Pune - Kothrud,7229,52,3,3,0,0,0
+874,Jaipur - Mansarovar,6373,62,4,10,0,1,1
+875,Rajkot - Kalawad Road,6760,47,3,11,0,0,0
+876,Ahmedabad - Maninagar,7486,64,2,5,1,0,0
+877,Ahmedabad - Bopal,9993,79,4,23,0,0,0
+878,Mumbai - Andheri,8678,95,2,10,0,0,0
+879,Mumbai - Borivali,7116,71,4,23,0,0,1
+880,Delhi - Rohini,7286,79,5,13,1,0,1
+881,Delhi - Lajpat Nagar,7294,94,4,18,1,0,1
+882,Surat - Adajan,4321,67,5,23,1,0,1
+883,Surat - Vesu,5522,53,5,16,0,0,1
+884,Pune - Hinjewadi,4208,62,4,12,1,0,1
+885,Pune - Kothrud,6865,48,4,12,0,0,0
+886,Jaipur - Mansarovar,3098,93,5,3,0,0,1
+887,Rajkot - Kalawad Road,9810,93,2,14,1,0,0
+888,Ahmedabad - Maninagar,6597,69,2,20,1,1,2
+889,Ahmedabad - Bopal,3786,97,2,2,1,0,2
+890,Mumbai - Andheri,4567,52,5,6,0,1,1
+891,Mumbai - Borivali,6548,59,3,15,0,0,0
+892,Delhi - Rohini,7412,99,1,3,0,0,2
+893,Delhi - Lajpat Nagar,8376,49,1,4,0,0,0
+894,Surat - Adajan,3264,40,4,9,0,0,1
+895,Surat - Vesu,6373,69,3,23,1,1,1
+896,Pune - Hinjewadi,8144,40,4,14,1,0,0
+897,Pune - Kothrud,7757,69,1,21,0,1,0
+898,Jaipur - Mansarovar,6350,96,4,13,1,0,1
+899,Rajkot - Kalawad Road,6373,73,2,20,1,1,2
+900,Ahmedabad - Maninagar,7430,52,1,14,1,0,0
+901,Ahmedabad - Bopal,6373,79,1,6,0,0,2
+902,Mumbai - Andheri,4771,56,5,22,1,1,1
+903,Mumbai - Borivali,6109,55,4,18,0,0,1
+904,Delhi - Rohini,6706,62,2,4,0,0,0
+905,Delhi - Lajpat Nagar,4732,76,2,24,0,0,2
+906,Surat - Adajan,8827,52,2,10,0,0,0
+907,Surat - Vesu,4580,88,2,14,1,0,2
+908,Pune - Hinjewadi,7820,51,3,22,0,0,0
+909,Pune - Kothrud,6512,42,2,3,1,0,0
+910,Jaipur - Mansarovar,8030,48,2,16,0,0,0
+911,Rajkot - Kalawad Road,5102,90,1,13,1,1,2
+912,Ahmedabad - Maninagar,8866,48,1,0,0,0,0
+913,Ahmedabad - Bopal,9508,80,3,12,0,1,0
+914,Mumbai - Andheri,9667,43,4,11,1,0,0
+915,Mumbai - Borivali,7805,69,1,8,0,0,0
+916,Delhi - Rohini,5190,88,3,24,1,0,2
+917,Delhi - Lajpat Nagar,6088,62,2,8,0,0,2
+918,Surat - Adajan,9123,71,2,10,0,1,0
+919,Surat - Vesu,5608,84,4,10,0,0,1
+920,Pune - Hinjewadi,4088,69,1,9,0,0,2
+921,Pune - Kothrud,9667,68,2,6,1,1,0
+922,Jaipur - Mansarovar,3258,97,5,15,1,0,1
+923,Rajkot - Kalawad Road,4173,82,5,12,1,0,1
+924,Ahmedabad - Maninagar,5051,40,3,24,0,0,2
+925,Ahmedabad - Bopal,6271,42,4,16,1,0,1
+926,Mumbai - Andheri,3297,72,1,9,1,0,2
+927,Mumbai - Borivali,6383,69,5,17,0,0,1
+928,Delhi - Rohini,9247,56,1,18,1,0,0
+929,Delhi - Lajpat Nagar,3139,44,2,1,0,0,2
+930,Surat - Adajan,5799,40,3,14,0,0,0
+931,Surat - Vesu,6373,53,1,11,0,0,0
+932,Pune - Hinjewadi,5112,78,3,12,0,0,2
+933,Pune - Kothrud,8924,88,2,3,0,0,0
+934,Jaipur - Mansarovar,5344,59,2,8,0,0,2
+935,Rajkot - Kalawad Road,8042,50,5,12,1,0,1
+936,Ahmedabad - Maninagar,8000,77,3,10,0,0,0
+937,Ahmedabad - Bopal,4596,93,5,10,0,0,1
+938,Mumbai - Andheri,7293,40,4,15,1,1,0
+939,Mumbai - Borivali,5852,52,2,1,0,0,0
+940,Delhi - Rohini,7016,69,1,17,0,0,2
+941,Delhi - Lajpat Nagar,3466,96,2,18,0,0,2
+942,Surat - Adajan,6373,91,5,11,0,0,1
+943,Surat - Vesu,4073,69,5,23,0,0,1
+944,Pune - Hinjewadi,7772,51,3,24,1,0,0
+945,Pune - Kothrud,9983,88,3,12,1,0,0
+946,Jaipur - Mansarovar,4474,96,1,3,0,0,2
+947,Rajkot - Kalawad Road,8770,44,1,4,1,0,0
+948,Ahmedabad - Maninagar,6373,64,4,6,0,0,1
+949,Ahmedabad - Bopal,7301,88,2,12,1,0,2
+950,Mumbai - Andheri,4044,94,5,18,0,0,1
+951,Mumbai - Borivali,6373,54,2,1,1,1,0
+952,Delhi - Rohini,6388,44,1,20,0,0,0
+953,Delhi - Lajpat Nagar,8519,69,3,19,0,0,0
+954,Surat - Adajan,5898,92,5,2,1,0,1
+955,Surat - Vesu,6934,62,1,21,1,0,0
+956,Pune - Hinjewadi,9472,59,4,0,1,0,0
+957,Pune - Kothrud,4659,82,2,6,0,0,2
+958,Jaipur - Mansarovar,5416,63,2,9,1,0,2
+959,Rajkot - Kalawad Road,7774,87,5,6,1,0,1
+960,Ahmedabad - Maninagar,6373,95,5,16,0,0,1
+961,Ahmedabad - Bopal,5267,87,2,19,1,0,2
+962,Mumbai - Andheri,3172,50,2,13,0,0,2
+963,Mumbai - Borivali,5589,58,4,3,0,0,1
+964,Delhi - Rohini,3988,69,2,6,0,1,2
+965,Delhi - Lajpat Nagar,6208,71,4,12,0,0,1
+966,Surat - Adajan,4520,55,5,5,1,0,1
+967,Surat - Vesu,9459,84,5,7,0,0,1
+968,Pune - Hinjewadi,7693,96,5,15,1,0,1
+969,Pune - Kothrud,3094,54,3,12,1,0,2
+970,Jaipur - Mansarovar,3395,69,1,2,0,1,2
+971,Rajkot - Kalawad Road,3276,64,3,23,0,0,2
+972,Ahmedabad - Maninagar,4715,78,1,23,1,0,2
+973,Ahmedabad - Bopal,9386,82,2,9,1,0,0
+974,Mumbai - Andheri,5925,52,2,11,1,0,0
+975,Mumbai - Borivali,3761,69,5,12,1,0,1
+976,Delhi - Rohini,7388,75,4,22,0,0,1
+977,Delhi - Lajpat Nagar,6373,69,1,16,0,0,2
+978,Surat - Adajan,3875,75,1,12,0,0,2
+979,Surat - Vesu,6452,41,1,16,1,0,0
+980,Pune - Hinjewadi,3715,55,5,15,0,0,1
+981,Pune - Kothrud,9361,66,1,23,1,0,0
+982,Jaipur - Mansarovar,8470,43,5,3,0,0,0
+983,Rajkot - Kalawad Road,7542,76,4,19,1,1,1
+984,Ahmedabad - Maninagar,6715,69,4,23,1,0,1
+985,Ahmedabad - Bopal,5143,88,4,5,1,0,1
+986,Mumbai - Andheri,8895,95,1,3,0,0,0
+987,Mumbai - Borivali,3501,66,4,14,0,0,1
+988,Delhi - Rohini,6834,70,4,19,1,0,1
+989,Delhi - Lajpat Nagar,8943,93,2,4,0,0,0
+990,Surat - Adajan,7136,92,3,12,0,0,1
+991,Surat - Vesu,8653,67,3,16,1,0,0
+992,Pune - Hinjewadi,6373,56,5,7,0,0,1
+993,Pune - Kothrud,6139,63,3,24,1,0,1
+994,Jaipur - Mansarovar,3468,76,1,23,0,1,2
+995,Rajkot - Kalawad Road,5520,97,1,10,0,0,2
+996,Ahmedabad - Maninagar,6373,92,3,15,0,1,2
+997,Ahmedabad - Bopal,9113,61,4,24,0,0,0
+998,Mumbai - Andheri,4245,45,1,21,1,0,2
+999,Mumbai - Borivali,7875,41,1,13,1,0,0
+1000,Delhi - Rohini,6373,73,3,17,1,0,1
